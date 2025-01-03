@@ -1,3 +1,7 @@
+# Imports and aliases
+
+![img_3.png](img_3.png)
+
 # Function arity
 
 ![img.png](img.png)

@@ -4,3 +4,7 @@
 
 ![img_1.png](img_1.png)
 
+# Function visibility
+
+![img_2.png](img_2.png)
+
